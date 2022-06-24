@@ -4,7 +4,7 @@ public class testing1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-String a="prasant";
+String a="Gaurav";
 String b="dnyanu";
 if(a=="prasant") {
 	System.out.println("go to goa");
